@@ -1,0 +1,34 @@
+CADASTRO DE PACIENTES:
+Dados pessoais:
+geral: nome, data nasc, sexo, email, observações, como conheceu
+telefones: casa trabalho wpp
+endereço: cep, rua, numero, complemento, bairro, cidade, estado, pais
+
+Dados complementares: 
+complementares: naturalidade, estado, nacionalidade, etnia, cpf, rg, religião, estado civil, escolaridade, profissão
+familiares: nome, parentesco, profissão
+outras info: cns, info adicional
+
+convênio: 
+convênio, plano, n carteirinha, validade (indeterminado), acomodação
+
+AGENDA:
+filtros de semana, dia/semana, novo agendamento
+mostra lista de dia/hora com pacientes
+
+PACIENTES:
+filtro por nome, cpf, telefone, etc
+traz todos ou filtra
+**EVOLUÇÃO
+
+FINANÇAS: 
+filtro por data, mês, semana, hoje, ultimos 30 dias, ou periodo de até
+receitas despesas
+
+PAINEL
+pacientes do dia
+pacientes agendados, pacientes confirmados, pacientes atendidos, pacientes que faltaram(filtro de data) GRÁFICOS
+pacientes, procedimentos, pacientes x convênio, duração do atendimento
+aniversariantes do dia
+distribuição etária
+número de atendimentos num período

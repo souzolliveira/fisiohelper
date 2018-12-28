@@ -1,0 +1,118 @@
+.tabs-ul{
+	float: left;
+	width: 20%;
+	height: 100%;
+	background-color: #e0f2ea;
+	background-image: url(../background.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+	padding-top: 240px;
+}
+.tabs-tab-content{
+	background: #007e33;
+	float: left;
+	width: 80%;
+	padding-left: 2px;
+	height: 100%;
+}
+.tab-content{
+	height: 100%;
+}
+.tab-pane{
+	height: 100%;
+}
+.tabs-sideways{
+	height: 100%;
+	background-color: #007e33;
+	padding-top: 2px;
+}
+.nav-tabs{
+	background-color: #e0f2ea;
+}
+.tabs-left>li>a{
+	border-radius: 0;
+	color: #007e33;
+	font-weight: bold;
+	border: 0;
+}
+.tabs-left>li{
+	margin: 0;
+	border: 0;
+}
+.tabs-left>li.active>a, .tabs-left>li.active>a:hover, .tabs-left>li.active>a:focus{
+	background-color: #007e33 !important;
+	border: 0;
+	color: #e0f2ea;
+}
+.tabs-left>li>a:hover{
+	background-color: #007e33;
+	color: #e0f2ea;
+}
+.tabs-left{
+	border: 0;
+	padding: 0;
+}
+.fundo-content{
+	float: left;
+	width: 100%;
+	padding: 10px;
+	height: 100%;
+	background-color: #e0f2ea;
+	color: #007e33;
+	overflow: auto;
+}
+
+
+/*************************PACIENTES*************************/
+.header-patients {
+	width: 100%;
+	float: left;
+	color: #323232;	
+}
+.table-patients table, .table-patients-tr{
+	width: 100%;
+}
+.table-patients table .table-patients-name{
+	width: 80%;
+}
+.table-patients table .table-patients-last{
+	width: 20%;
+}
+.table-patients th, .table-patients td{
+	padding: 10px;
+}
+.table-patients tr:nth-child(even){
+	background: #fff;
+}
+.table-patients tr:nth-child(odd){
+	background: #c2e6d6;
+}
+.table-patients tr:nth-child(even):hover, .table-patients tr:nth-child(odd):hover{
+	background: #aecfc0;
+}
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
