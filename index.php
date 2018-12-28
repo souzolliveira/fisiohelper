@@ -1,3 +1,6 @@
+<?php
+	include("classes/conexao.class.php");
+?>
 <html>
     <head>
         <title>FisioHelper</title>
@@ -18,7 +21,8 @@
                     <li><a href='#evolution' data-toggle='tab'><span aria-hidden='true' class="glyphicon glyphicon-stats"></span> Evolução</a></li>		
                     <li><a href='#finance' data-toggle='tab'><span aria-hidden='true' class="glyphicon glyphicon-usd"></span> Finanças</a></li>		
                     <li><a href='' data-toggle='tab'><span aria-hidden='true' class="glyphicon glyphicon-off"></span> Sair</a></li>		
-			</div>
+                </ul>
+            </div>
 			<div class="tabs-tab-content">
 				<div class="tab-content">
                     <?php
